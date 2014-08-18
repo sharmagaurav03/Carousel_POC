@@ -1,0 +1,16 @@
+ .slider
+    {
+    margin: 10px;
+    width: 580px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    }
+
+ .slider li
+    {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    }
